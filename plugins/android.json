@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.manoj.pushnotification"
+        },
+        "phonegap-plugin-push": {
+            "PACKAGE_NAME": "com.manoj.pushnotification"
+        }
+    },
+    "dependent_plugins": {}
+}
